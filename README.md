@@ -12,10 +12,12 @@ RF system architecture can be implemented using RF System models available in th
 
 <img width="619" height="306" alt="image" src="https://github.com/user-attachments/assets/82e56851-716a-455f-aa6c-9a25ebf1b593" />
 
+## OUTPUT:
+
 <img width="619" height="475" alt="image" src="https://github.com/user-attachments/assets/18400bc4-b166-4809-a232-3115221101a9" />
 
 **Conclusion:**
 
-The quarter-wave transformer was successfully designed and simulated using CST Studio Suite 2019 to match a 50 Ω microstrip line with a 123 Ω load. The simulation results verified efficient impedance matching, showing minimal reflection and improved power transfer at the designed frequency. Hence, the design effectively demonstrates the principle of impedance matching using a quarter-wave transformer.
+The quarter wave transformer was succesfully designed using CST Microwave studio to match mico strip line with a 123 ohm load.
 
-
+thus  the microstrip antenna is designed and analysed using CST MICROWAVE STUDIO
